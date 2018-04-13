@@ -1,2 +1,2 @@
 # gittest
-HELLO GARY
+Hello gary
